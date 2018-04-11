@@ -6,7 +6,7 @@
 
     <link rel="shortcut icon" href="../../assets/images/favicon_1.ico">
 
-    <title>SIG - Dispendukcapil Surabaya</title>
+    <title>Ditjen Tanaman Pangan || E-Surat</title>
 
     <!-- DataTables -->
     <link href="../../assets/plugins/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
