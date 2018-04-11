@@ -9,7 +9,7 @@
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class=" ti-desktop"></i> <span> Dashboard </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled">
-                        <li><a href="index.html">Dashboard 1</a></li>
+                        <li><a href="../../view/dashbord/">Dashboard 1</a></li>
                         <li><a href="dashboard_2.html">Dashboard 2</a></li>
                         <li><a href="dashboard_3.html">Dashboard 3</a></li>
                         <li><a href="dashboard_4.html">Dashboard 4</a></li>
@@ -19,32 +19,32 @@
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class=" ti-calendar"></i> <span> Surat </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled">
-                        <li><a href="dashboard_2.html">Surat Masuk</a></li>
-                        <li><a href="dashboard_3.html">Surat Keluar</a></li>
-                        <li><a href="dashboard_4.html">Cari Surat</a></li>
+                        <li><a href="../../view/suratmasuk/">Surat Masuk</a></li>
+                        <li><a href="../../view/suratkeluar/">Surat Keluar</a></li>
+                        <li><a href="../../view/carisurat/">Cari Surat</a></li>
                     </ul>
                 </li>
 
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class=" ti-blackboard"></i> <span> Monitoring </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled">
-                        <li><a href="dashboard_2.html">Pegawai Bagian</a></li>
-                        <li><a href="dashboard_3.html">Riwayat Surat</a></li>
+                        <li><a href="../../view/pegawaibagian/">Pegawai Bagian</a></li>
+                        <li><a href="../../view/riwayat/">Riwayat Surat</a></li>
                     </ul>
                 </li>
 
                 <li class="has_sub">
                     <a href="javascript:void(0);" class="waves-effect"><i class=" ti-direction-alt"></i> <span> Administrasi </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled">
-                        <li><a href="dashboard_2.html">Admin</a></li>
-                        <li><a href="dashboard_3.html">Role</a></li>
-                        <li><a href="dashboard_2.html">Bagian</a></li>
-                        <li><a href="dashboard_2.html">Pegawai</a></li>
-                        <li><a href="dashboard_3.html">Jabatan</a></li>
-                        <li><a href="dashboard_3.html">Derajat Surat</a></li>
-                        <li><a href="dashboard_3.html">Status Surat</a></li>
-                        <li><a href="dashboard_3.html">Perintah</a></li>
-                        <li><a href="dashboard_2.html">Pengiriman</a></li>
+                        <li><a href="../../view/admin/">Admin</a></li>
+                        <li><a href="../../view/role/">Role</a></li>
+                        <li><a href="../../view/bagian/">Bagian</a></li>
+                        <li><a href="../../view/pegawai/">Pegawai</a></li>
+                        <li><a href="../../view/jabatan/">Jabatan</a></li>
+                        <li><a href="../../view/derajat/">Derajat Surat</a></li>
+                        <li><a href="../../view/status/">Status Surat</a></li>
+                        <li><a href="../../view/perintah/">Perintah</a></li>
+                        <li><a href="../../view/pengiriman/">Pengiriman</a></li>
                     </ul>
                 </li>
 
